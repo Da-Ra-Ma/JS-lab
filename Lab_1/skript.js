@@ -8,7 +8,7 @@ let changeCssAttributes = function()
     {
         paragraph.style.color = "red";
         paragraph.style.fontSize = "100px";
-        paragraph.style.paddingLeft = "250px"
+        paragraph.style.margingLeft = "250px";
 
         paragraph.innerText = "World hello!";
 
@@ -18,7 +18,7 @@ let changeCssAttributes = function()
     {
         paragraph.style.color = "black";
         paragraph.style.fontSize = "50px";
-        paragraph.style.paddingLeft = "0px"
+        paragraph.style.margingLeft = "0px";
 
         paragraph.innerText = "Hello world!";
 
