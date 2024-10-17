@@ -1,0 +1,11 @@
+.low-price {
+  background-color: green; /* зеленый для низкой цены */
+}
+
+.mid-price {
+  background-color: yellow; /* желтый для средней цены */
+}
+
+.high-price {
+  background-color: red; /* красный для высокой цены */
+}
